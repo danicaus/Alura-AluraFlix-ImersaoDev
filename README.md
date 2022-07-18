@@ -24,4 +24,4 @@ Esse projeto está sob licença MIT.
 
 ---
 
-<p align="center"> Feito com ❤ por Daniela Caus com a Rocketseat</p>
+<p align="center"> Feito com ❤ por Daniela Caus com a Alura</p>
